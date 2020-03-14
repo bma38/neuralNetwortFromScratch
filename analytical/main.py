@@ -1,4 +1,4 @@
-from NN import *   # bedeutet vom NN.py importiere alles du musst also nicht mehr schreiben NN.NN(..) um klasse auzufuren
+from NN import *  
 import matplotlib.pyplot as plt
 
 NN = neuralNet(2)
